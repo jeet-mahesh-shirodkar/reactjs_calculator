@@ -1,0 +1,15 @@
+input[type='button']{
+	width: 100px;
+	background: rgb(122, 39, 12);
+	border: 1px solid #8d8282;
+	padding: 10px 20px;
+  color: #f0e4e4;
+  /* text-align: center; */
+  /* text-decoration: none; */
+  display: inline-block;
+  font-size: 16px;
+}
+
+input[type='button']:active{
+	background: #ccc;
+}
